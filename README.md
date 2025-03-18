@@ -38,7 +38,7 @@
 ---
 
 ### 🏆 **Projects**
-#### **Facial Mote** ([Repo Link](https://github.com/Arunjayan688/Facial-Mote))  
+#### **Facial Mote** ([Repo Link](https://github.com/Arunjayan688/Facial-mouse))  
 - 🤖 **Built an assistive tool** enabling cursor control via facial gestures  
 - 🛠️ Used **Python, Dlib, TensorFlow, PyAutoGUI**  
 - 🎯 Designed for **individuals with hand disabilities**, ensuring accessibility  
