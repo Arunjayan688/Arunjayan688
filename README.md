@@ -38,12 +38,12 @@
 ---
 
 ### 🏆 **Projects**
-#### **Facial Mote** ([Repo Link](https://github.com/Arunjayan688/Facial-mouse))  
+#### **Facial Mote** ([Repo Link](https://github.com/Arunjayan688/facial_mouse))  
 - 🤖 **Built an assistive tool** enabling cursor control via facial gestures  
 - 🛠️ Used **Python, Dlib, TensorFlow, PyAutoGUI**  
 - 🎯 Designed for **individuals with hand disabilities**, ensuring accessibility  
 
-#### **Speech to Emotion Recognition** ([Repo Link](https://github.com/Arunjayan688/Speech-Emotion-Recognition))  
+#### **Speech to Emotion Recognition** ([Repo Link](https://github.com/Arunjayan688/SER))  
 - 🎤 Developed an **ML-based app** to predict emotions from voice notes  
 - 🌍 Built an interactive UI using **Streamlit**  
 - 🧠 Applied **audio processing & ML models** for emotion classification  
