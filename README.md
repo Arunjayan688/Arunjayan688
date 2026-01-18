@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arun J 👋</h1>
-<h3 align="center">Aspiring Developer | Passionate about AI, ML, and Web Technologies 🚀</h3>
+<h3 align="center">Python and sql Developer | Passionate about Data Engineering, AI, ML, and Web Technologies 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arunjayan688&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 **About Me**
+- 💻 **Associate Software Engineer at TCS**
 - 🎓 **Master of Computer Applications (MCA)** From TKM College of Engineering  
 - 💡 Passionate about **Machine Learning, AI, and Web Development**  
-- 💻 Experienced in **Python, Java, JavaScript, PHP, and Cloud Computing**  
+- 💻 Experienced in **Python, Java,SQL, JavaScript, PHP, and Cloud Computing**  
 - 🌱 Currently exploring **Deep Learning and AI-driven applications**  
 - 🤝 Open to collaborations on **AI and Web Development projects**  
 - 📫 Reach me at **[arunjayan688@gmail.com](mailto:arunjayan688@gmail.com)**  
